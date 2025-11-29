@@ -1,2 +1,2 @@
 # Só para deixar claro 
-isso é só um teste e nada mais.
+isso é só um site simples e nada de interessante.
